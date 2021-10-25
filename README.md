@@ -5,10 +5,11 @@
 
 - 📄 Know about my experiences:
 
+<div>
 <a href="https://weather-app-three-omega.vercel.app/" target="blank">The Weather App</a>
 <a href="https://movie-app-tau-six.vercel.app/" target="blank">The Movie App</a>
 <a href="https://16bit-gamestore.vercel.app/" target="blank">16-Bit Gamestore</a>
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
