@@ -3,7 +3,12 @@
 
 - 📫 How to reach me **guidogambini@hotmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/guido/OneDrive/Escritorio/Guido%20Gambini%20-%20CV.pdf](file:///C:/Users/guido/OneDrive/Escritorio/Guido%20Gambini%20-%20CV.pdf)
+- 📄 Know about my experiences:
+
+<a href="https://weather-app-three-omega.vercel.app/" target="blank">The Weather App</a>
+<a href="https://movie-app-tau-six.vercel.app/" target="blank">The Movie App</a>
+<a href="https://16bit-gamestore.vercel.app/" target="blank">16-Bit Gamestore</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
