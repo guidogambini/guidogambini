@@ -9,7 +9,7 @@
   <a href="https://weather-app-three-omega.vercel.app/" target="_blank">The Weather App</a>
 </div>
 <div>
-  <a href="https://16bit-gamestore.vercel.app/" target="_blank">16-Bit Gamestore</a>
+  <a href="https://16-bit-gamestore.vercel.app/" target="_blank">16-Bit Gamestore</a>
 </div>
 <div>
   <a href="https://global-app.vercel.app/" target="_blank">Global App</a>
