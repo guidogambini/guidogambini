@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guido Gambini</h1>
-<h3 align="center">A passionate and enthusiastic Frontend developer from Buenos Aires, Argentina, currently working at Media.Monks</h3>
+<h3 align="center">An enthusiastic web full-stack developer from Buenos Aires, Argentina, currently working as Frontend dev at Media.Monks</h3>
 
 - 📫 How to reach me **guidogambini@hotmail.com**
 
