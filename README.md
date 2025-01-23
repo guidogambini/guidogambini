@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guido Gambini</h1>
-<h3 align="center">An enthusiastic web full-stack developer from Buenos Aires, Argentin</h3>
+<h3 align="center">An enthusiastic web full-stack developer from Buenos Aires, Argentina</h3>
 
 - 📫 How to reach me **guidogambini@hotmail.com**
 
