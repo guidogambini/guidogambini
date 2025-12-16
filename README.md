@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guido Gambini</h1>
-<h3 align="center">An enthusiastic web full-stack developer from Buenos Aires, Argentina</h3>
+<h3 align="center">Frontend Developer with 4 years of professional experience, specialized in React, Vue.js, Tailwind and TypeScript. I have worked at Media.Monks (December 2021 - February 2023), Terra (May 2023 - December 2024), and Coderio (April 2025 - October 2025).</h3>
 
 - 📫 How to reach me **guidogambini@hotmail.com**
 
