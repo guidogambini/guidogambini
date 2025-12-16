@@ -3,21 +3,6 @@
 
 - 📫 How to reach me **guidogambini@hotmail.com**
 
-- 📄 Know about my experiences:
-
-<div>
-  <a href="https://weather-app-three-omega.vercel.app/" target="_blank">The Weather App</a>
-</div>
-<div>
-  <a href="https://16-bit-gamestore.vercel.app/" target="_blank">16-Bit Gamestore</a>
-</div>
-<div>
-  <a href="https://global-app.vercel.app/" target="_blank">Global App</a>
-</div>
-<div>
-  <a href="https://movie-app-tau-six.vercel.app/" target="_blank">The Movie App</a>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guidogambini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guidogambini" height="30" width="40" /></a>
